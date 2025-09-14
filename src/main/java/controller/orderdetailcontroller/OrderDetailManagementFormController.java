@@ -1,4 +1,4 @@
 package controller.orderdetailcontroller;
 
-public class OrderDetailManagementController {
+public class OrderDetailManagementFormController {
 }
